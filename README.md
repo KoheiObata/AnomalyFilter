@@ -1,4 +1,4 @@
-# AnomalyFilter: Selective and Adaptive Diffusion Model for Time Series Anomaly Detection
+# AnomalyFilter: Selective Diffusion Model for Time Series Anomaly Detection
 
 Implementation of [AnomalyFilter]().
 
